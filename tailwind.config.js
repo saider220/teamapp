@@ -10,6 +10,7 @@ module.exports = {
         "off-white": "#F5F7FA",
         "primary": "#0ABEF1",
         "dark-blue": "#111D4D",
+        "grey": "#6D7D8B",
       },
       fontFamily: {
         "cabin": "'Cabin', sans-serif"
