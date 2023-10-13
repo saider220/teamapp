@@ -11,6 +11,8 @@ module.exports = {
         "primary": "#0ABEF1",
         "dark-blue": "#111D4D",
         "grey": "#6D7D8B",
+        "light-grey": "#BFBFBF",
+        "footer": "#363D59",
       },
       fontFamily: {
         "cabin": "'Cabin', sans-serif"
