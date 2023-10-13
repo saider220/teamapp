@@ -24,8 +24,10 @@ module.exports = {
         "paragraph": "1.125rem",
         "caption": "0.875rem",
         "caption-s": "0.75rem"
-
-      }
+      },
+      screens: {
+        "large": "1441px",
+      },
     },
   },
   plugins: [],
