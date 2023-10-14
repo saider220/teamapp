@@ -26,7 +26,11 @@ module.exports = {
         "caption-s": "0.75rem"
       },
       screens: {
-        "large": "1441px",
+        "xxl": "1441px",
+        "xl": {"max": "1320px"},
+        "l": {"max": "1250px"},
+        "md": {"max": "1000px"},
+        "s": {"max": "750px"},
       },
     },
   },
